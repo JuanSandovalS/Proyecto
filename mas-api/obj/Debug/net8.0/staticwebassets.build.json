@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uM8QCHNoLASfNR3xwPLNZYvQoPe5Ulbtag9shOxctSU=",
+  "Source": "mas-api",
+  "BasePath": "_content/mas-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
